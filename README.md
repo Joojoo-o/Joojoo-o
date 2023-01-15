@@ -1,4 +1,5 @@
 ### 안녕하세요 0일차입니다 �
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joojoo-o&show_icons=true&theme=radical)
 
 <!--
 **Joojoo-o/Joojoo-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
