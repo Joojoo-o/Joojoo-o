@@ -1,4 +1,4 @@
-### 안녕하세요 0일차입니다 �
+### jooyoung �
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joojoo-o&show_icons=true&theme=radical)
 
 <!--
